@@ -4,7 +4,7 @@
 - 🌱 Atualmente aprendendo Flutter e Python
 - 💞️ Tenho pretensão em colaborar com qualquer projeto que surgir, quero sempre aprender e evoluir
 - 📫 Como chegar até mim: Através deste Github, meu Twitter (@NaoyaNyx) ou E-mail, que é klejomar.so@gmail.com
-**Sobre mim, English Version**
+**About me**
 - 👋 Hi, I’m @Klejomar
 - 👀 I’m interested in games, cinema, series and music in general
 - 🌱 I’m currently learning Flutter and Python
