@@ -9,7 +9,7 @@
 - 👀 I’m interested in games, cinema, series and music in general
 - 🌱 I’m currently learning Flutter and Python
 - 💞️ I’m looking to collaborate on any project that show up, i'm eager to learn and evolve
-- 📫 How to reach me: Through this Github, my Twitter (@NaoyaNyx) or E-mail, wich is klejomar.so@gmail.com
+- 📫 How to reach me: Through this Github, my Twitter (@NaoyaNyx) or E-mail (klejomar.so@gmail.com)
 
 <!---
 Klejomar/Klejomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
