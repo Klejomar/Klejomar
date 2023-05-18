@@ -1,10 +1,10 @@
-# Sobre mim 🇧🇷
+# Sobre mim (🇧🇷)
 - 👋 Oi, sou @Klejomar
 - 👀 Tenho interesse em Jogos, Filmes, Séries e Música em geral
 - 🌱 Atualmente aprendendo Flutter e Python
 - 💞️ Tenho pretensão em colaborar com qualquer projeto que surgir, quero sempre aprender e evoluir
 - 📫 Como chegar até mim: Através deste Github, meu Twitter (@NaoyaNyx) ou E-mail (klejomar.so@gmail.com)
-# About me :us:
+# About me (:us:)
 - 👋 Hi, I’m @Klejomar
 - 👀 I’m interested in games, cinema, series and music in general
 - 🌱 I’m currently learning Flutter and Python
