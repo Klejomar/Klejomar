@@ -1,4 +1,4 @@
-# 🇧🇷 Sobre mim
+# Sobre mim 🇧🇷
 - 👋 Oi, sou @Klejomar
 - 👀 Tenho interesse em Jogos, Filmes, Séries e Música em geral
 - 🌱 Atualmente aprendendo Flutter e Python
