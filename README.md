@@ -1,5 +1,5 @@
 # Sobre mim 🇧🇷
-- 👋 Oi, sou @Klejomar
+- 👋 Opa, sou @Klejomar
 - 👀 Tenho interesse em Jogos, Filmes, Séries e Música em geral
 - 🌱 Atualmente aprendendo Flutter e Python
 - 💞️ Tenho pretensão em colaborar com qualquer projeto que surgir, quero sempre aprender e evoluir
